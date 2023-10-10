@@ -13,7 +13,7 @@ body {
 }
 
 #left-container, #right-container {
-    width: 35%;
+    width: 30%;
 }
 
 #pokemon-pic {
@@ -69,7 +69,7 @@ body {
 }
 
 #left-pic, #right-pic {
-    height: 61px;
+    height: 40px;
 }
 
 #right-header {
@@ -80,7 +80,7 @@ body {
 }
 
 #stats-container {
-    height: 598px;
+    height: 500px;
     background-color: #e8e8e8;
     margin-bottom: 40px;
     padding: 30px;
